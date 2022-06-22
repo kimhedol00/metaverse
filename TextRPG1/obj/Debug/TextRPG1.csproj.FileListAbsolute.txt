@@ -1,0 +1,7 @@
+C:\Users\Hedol\Desktop\Hedol\성균관대\동아리\VsCode\TextRPG1\bin\Debug\TextRPG1.exe.config
+C:\Users\Hedol\Desktop\Hedol\성균관대\동아리\VsCode\TextRPG1\bin\Debug\TextRPG1.exe
+C:\Users\Hedol\Desktop\Hedol\성균관대\동아리\VsCode\TextRPG1\bin\Debug\TextRPG1.pdb
+C:\Users\Hedol\Desktop\Hedol\성균관대\동아리\VsCode\TextRPG1\obj\Debug\TextRPG1.csproj.AssemblyReference.cache
+C:\Users\Hedol\Desktop\Hedol\성균관대\동아리\VsCode\TextRPG1\obj\Debug\TextRPG1.csproj.CoreCompileInputs.cache
+C:\Users\Hedol\Desktop\Hedol\성균관대\동아리\VsCode\TextRPG1\obj\Debug\TextRPG1.exe
+C:\Users\Hedol\Desktop\Hedol\성균관대\동아리\VsCode\TextRPG1\obj\Debug\TextRPG1.pdb
